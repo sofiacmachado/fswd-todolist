@@ -1,8 +1,8 @@
 {
   "name": "to_do_list_full_stack",
-  "private": true,
+  "version": "1.0.0",
   "engines": {
-    "node": "12.22.10"
+    "node": "~12.22"
   },
   "dependencies": {}
 }

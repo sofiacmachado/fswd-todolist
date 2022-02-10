@@ -27,6 +27,9 @@ gem 'jbuilder', '~> 2.11'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1'
 
+# Bootstrap
+gem 'bootstrap', '~> 5.1'
+
 # AWS S3
 gem 'aws-sdk-s3', '~> 1.112'
 

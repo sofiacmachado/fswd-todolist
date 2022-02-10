@@ -17,7 +17,7 @@ gem 'uglifier', '~> 4.2.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '~> 4.4'
 # Use CoffeeScript for .coffee assets and views
-# gem 'coffee-rails', '~> 5.0'
+gem 'coffee-rails', '~> 5.0'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5.2.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
@@ -26,6 +26,9 @@ gem 'jbuilder', '~> 2.11'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1'
+
+# Bootstrap
+gem 'bootstrap', '~> 5.1'
 
 # AWS S3
 gem 'aws-sdk-s3', '~> 1.112'
